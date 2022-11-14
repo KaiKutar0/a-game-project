@@ -8,6 +8,7 @@ public class Moving : MonoBehaviour
     void Start()
     {
         //Lexaaaa priveeet
+        int a=5;
     }
 
     // Update is called once per frame
