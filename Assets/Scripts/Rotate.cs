@@ -1,6 +1,7 @@
- using UnityEngine;
- 
- public class CameraRotation : MonoBehaviour
+using UnityEngine;
+using System.Collections; 
+using System.Collections.Generic; 
+ public class Rotate : MonoBehaviour
  {
      public float sensitivity = 10f;
      public float maxYAngle = 80f;
